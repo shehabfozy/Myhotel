@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة الفندق",
+  "description": "نظام متكامل لإدارة الفنادق والشقق السكنية، يتيح إدارة الغرف والحجوزات والنزلاء مع مسح بطاقات الهوية بالذكاء الاصطناعي ومتابعة الحسابات والتقارير المالية.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
